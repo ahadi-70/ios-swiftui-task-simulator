@@ -1,0 +1,6 @@
+{
+  "name": "iOS SwiftUI Task Simulator",
+  "description": "High-fidelity interactive simulator of an iOS 17 SwiftUI task management app featuring iCloud synchronization, dark mode, FaceID, widgets, social sharing, drag-and-drop, notifications, CSV/PDF export, and offline capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
